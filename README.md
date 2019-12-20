@@ -15,6 +15,7 @@ If you wish to run the app from R Studio instead of going to the above link, you
   <li>Download all items in the <em>CMS_DIVERSITY</em> folder</li>
   <li>Open <em>CMS-Diversity.Rproj</em> in R Studio</li>
   <li>Make sure both .png files are in a folder called www</li>
+  <li>Open data_prep2.R and click run</li>
   <li>Open app.R</li>
   <li>Click "Run App" in the upper right corner of the code panel</li>
   <li>(optional) Click "Open in Browser" in the upper left corner of the app window if you wish to view in browser</li>
