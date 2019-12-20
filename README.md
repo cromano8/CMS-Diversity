@@ -12,7 +12,7 @@ To view the live app go to https://chase-romano.shinyapps.io/CMS-Diversity/.
 
 If you wish to run the app from R Studio instead of going to the above link, you can use the following steps:
 <ol>
-  <li>Download the <em>CMS_DIVERSITY_v05</em> folder</li>
+  <li>Download the <em>CMS_DIVERSITY</em> folder</li>
   <li>Open <em>CMS_Diversity.Rproj</em> in R Studio</li>
   <li>Open app.R</li>
   <li>Click "Run App" in the upper right corner of the code panel</li>
