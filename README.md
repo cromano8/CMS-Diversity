@@ -25,7 +25,7 @@ If you wish to run the app from R Studio instead of going to the above link, you
 
 <h6>Additional_Materials folder</h6>
 
-The file <em>Report_Final.Rmd</em> produces the summary report for this project. 
+The file <em>Final-Report.Rmd</em> produces the summary report for this project. 
 
 A pdf version of that report has also been uploaded (<em>Final_Report.pdf</em>).
 
