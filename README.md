@@ -27,7 +27,7 @@ If you wish to run the app from R Studio instead of going to the above link, you
 
 The file <em>Report_Final.Rmd</em> produces the summary report for this project. 
 
-A pdf version of that report has also been uploaded (<em>Report_Final.pdf</em>).
+A pdf version of that report has also been uploaded (<em>Final_Report.pdf</em>).
 
 A powerpoint slide deck outlining the app is also included (<em>CMS_Diversity.pptx</em>).
 
