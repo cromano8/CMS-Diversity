@@ -8,9 +8,9 @@ To view the live app go to https://chase-romano.shinyapps.io/CMS-Diversity/.
 
 <hr>
 
-<h6>CMS_Diversity_v05 folder</h6>
+<h6>Reproducing the Report</h6>
 
-All code used to create the app is in the folder entitled <em>CMS_Diversity_v05</em>. If you wish to run the app from R Studio instead of going to the above link, you can use the following steps:
+If you wish to run the app from R Studio instead of going to the above link, you can use the following steps:
 <ol>
   <li>Download the <em>CMS_DIVERSITY_v05</em> folder</li>
   <li>Open <em>CMS_Diversity.Rproj</em> in R Studio</li>
