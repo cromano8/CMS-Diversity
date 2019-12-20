@@ -4,7 +4,7 @@
 
 Created as a result of Ryan Wesslen's Visual Analytics course in the Data Science and Business Analytics master's program at the University of North Carolina Charlotte, this app allows policy makers and school officials in the Charlotte region to investigate the student diversity landscape for the area's public school system from 2008 to 2020.
 
-To view the live app go to https://kirkmason.shinyapps.io/CMS_Diversity_v05/.
+To view the live app go to https://chase-romano.shinyapps.io/CMS-Diversity/.
 
 <hr>
 
